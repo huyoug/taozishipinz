@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://huyoug.github.io/taozishipinz/sitemap.xml
